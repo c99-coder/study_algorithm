@@ -18,12 +18,12 @@
   + step2_카드병정의출장
   + step3_범인찾기
 + [2week]
-  + [step2_함정발동
+  + step2_함정발동
   + step3_가로세로숫자퍼즐
   + step3_도도새의손가락은3개
 + [3week]
-  + unsolved_step2_소수의법칙
-  + unsolved_step3_누가봐도소수
+  + step2_소수의법칙
+  + step3_누가봐도소수
   + unsolved_step3_무기바꿔주세요
 + [4week]
   + next level...
