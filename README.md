@@ -8,7 +8,7 @@
 ## 백준
 
 ### 관련 링크
-[백준그룹](https://www.acmicpc.net/group/member/12750)
+[백준그룹랭킹](https://www.acmicpc.net/group/ranklist/12750)
 [라이벌](https://solved.ac/ranking/rival)
 
 ## 엘리스AI트랙
