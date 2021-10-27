@@ -6,6 +6,7 @@
 - [엘리스AI트랙](#엘리스ai트랙)
 
 ## 백준
++ [내 프로필](https://www.acmicpc.net/user/cute_jjang)
 
 ### 관련 링크
 [백준그룹랭킹](https://www.acmicpc.net/group/ranklist/12750)
