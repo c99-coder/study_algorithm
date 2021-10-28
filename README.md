@@ -24,7 +24,7 @@
 + [3week]
   + step2_소수의법칙
   + step3_누가봐도소수
-  + unsolved_step3_무기바꿔주세요
+  + step3_무기바꿔주세요
 + [4week]
   + next level...
 
