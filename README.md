@@ -26,5 +26,11 @@
   + step3_누가봐도소수
   + step3_무기바꿔주세요
 + [4week]
+  + unsolved_step2_식기세트만들기
+  + unsolved_step2_잔돈가득한세상
+  + unsolved_step2_재벌의쇼핑
+  + unsolved_step3_디지털시계
+  + unsolved_step3_사탕가게
++ [5week]
   + next level...
 
