@@ -30,7 +30,7 @@
   + step2_잔돈가득한세상
   + step2_재벌의쇼핑
   + step3_디지털시계
-  + unsolved_step3_사탕가게
+  + step3_사탕가게
 + [5week]
   + next level...
 
